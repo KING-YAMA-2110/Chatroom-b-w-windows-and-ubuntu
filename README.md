@@ -1,4 +1,4 @@
-# Chatroom-b-w-windows-and-ubuntu
+# Chatroom-b/w-windows-and-ubuntu
 <h2>Objective of this repository</h2>
 I want to acheive a successfull communication way to communicate between my Windows and Ubuntu system thorugh terminal.
 This will help me in sending links or anyother 'msg-string' from my PC1 to PC2.
